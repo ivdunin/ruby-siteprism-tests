@@ -1,0 +1,9 @@
+tmp_base_url: 'https://locomote-tmp-staging-pr-5161.herokuapp.com'
+
+capybara:
+  global_wait_time: 60
+  wait_for_presence: 10
+
+siteprism:
+  debug_mode: False
+

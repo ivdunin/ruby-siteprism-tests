@@ -1,0 +1,20 @@
+browser:
+  window_size: '1280,1024'
+
+users:
+  traveller:
+    last_name: 'Account'
+    first_name: 'Traveller'
+    email: 'cbt_t@locomote.com.au'
+    password: 'P@ssw0rd'
+  authoriser:
+    last_name: 'Account'
+    first_name: 'Authoriser'
+    email: 'cbt_a@locomote.com.au'
+    password: 'P@ssw0rd'
+  tmc:
+    last_name: 'TMC'
+    first_name: 'TMC'
+    name: 'TMC TMC'
+    email: 'cbt_tmc@locomote.com.au'
+    password: 'P@ssw0rd'
