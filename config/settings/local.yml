@@ -1,0 +1,9 @@
+tmp_base_url: 'http://localhost:3000'
+
+capybara:
+  global_wait_time: 15
+  wait_for_presence: 5
+
+siteprism:
+  debug_mode: True
+

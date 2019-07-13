@@ -1,0 +1,24 @@
+AllCops:
+  Exclude:
+    - 'bin/**/*'
+    - 'features/**/*'
+
+Metrics/AbcSize:
+  Exclude:
+    - 'spec/**/*'
+
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+
+Metrics/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Exclude:
+    - 'spec/**/*'
+
+Style/StringLiterals:
+  #  EnforcedStyle: double_quotes
+  Enabled: false
+
